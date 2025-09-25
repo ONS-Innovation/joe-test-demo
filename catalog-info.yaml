@@ -11,7 +11,7 @@ metadata:
     github.com/project-slug: ONS-Innovation/joe-test-demo
     backstage.io/source-template: "python-etl-template"
   links:
-    - url: https://github.com/?repo=ONS-Innovation/joe-test-demo
+    - url: https://github.com/ONS-Innovation/joe-test-demo/codespaces
       title: Open Development Environment (Codespaces) 
       icon: scaffolder
     - url: https://officenationalstatistics.sharepoint.com/sites/ONS_DDaT_Communities/SitePages/SE%20-%20Principles,%20Policies,%20Guidelines%20&%20more.aspx?csf=1&web=1&share=EQI8qpmdcZ1MvVA__6yKAtgBkWCMhU-pty-SBeAs1KVAEQ&e=jlgchY
